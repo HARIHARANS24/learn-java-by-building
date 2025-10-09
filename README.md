@@ -7,7 +7,7 @@ A hands-on Java learning journey with 70+ core topics and 15+ real-world mini pr
 - **Variables** – Declaring and using variables  
 - **User Input** – Taking input from the user via `Scanner`   
 - **Arithmetic Operations** – Basic math operations  
-- **If Statements & Nested If** – Making decisions in code  
+- **If Statements & Nested If** – Making decisions in code   
 - **Switch & Enhanced Switches** – Multi-way branching  
 - **Ternary Operator** – Compact if-else  
 - **Logical Operators** – `&&`, `||`, and `!`  
