@@ -3,7 +3,7 @@ A hands-on Java learning journey with 70+ core topics and 15+ real-world mini pr
 
 ## 🧠 Topics Covered
 
-- **Introduction to Java** – Basic setup and how Java works  
+- **Introduction to Java** – Basic setup and how Java works   
 - **Variables** – Declaring and using variables  
 - **User Input** – Taking input from the user via `Scanner`   
 - **Arithmetic Operations** – Basic math operations  
