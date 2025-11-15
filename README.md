@@ -11,7 +11,7 @@ A hands-on Java learning journey with 70+ core topics and 15+ real-world mini pr
 - **Switch & Enhanced Switches** – Multi-way branching  
 - **Ternary Operator** – Compact if-else  
 - **Logical Operators** – `&&`, `||`, and `!`    
-- **Random Numbers** – Generate random values  
+- **Random Numbers** – Generate random values   
 - **Math Class** – Built-in math methods  
 - **printf** – Formatted output  
 - **Loops (while, for, nested)** – Repeating tasks  
