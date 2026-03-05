@@ -69,7 +69,7 @@ java-learning-journey is a complete, project-driven Java learning repository. Co
 ## Project Strcture
 ```
 Directory structure:
-└── baladurgag24-java-learning-journey/
+└── HARIHARANS24-learn-java-by-building/
     ├── README.md
     ├── LICENSE
     ├── MyFirstProject.iml
